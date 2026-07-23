@@ -224,9 +224,9 @@ I'm passionate about opportunities involving:
 > Replace **https://github.com/Mahlori412** with your actual GitHub username.
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mahlori412&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mahlori412&layout=compact&theme=tokyonight)
 ```
 
 ---
