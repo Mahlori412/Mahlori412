@@ -1,259 +1,227 @@
-<!-- ========================================================= -->
-<!--                     HEADER BANNER                          -->
-<!-- Replace the banner URL with your own image                -->
-<!-- ========================================================= -->
+👋 Hi, I'm Mahlori Manganyi
+Data Enginner | Software Developer | Business Intelligence | .NET Specialist
 
-<p align="center">
-  <img src="YOUR_BANNER_URL_HERE" width="100%" />
-</p>
+I build scalable software, business intelligence solutions, and data engineering pipelines that transform raw data into meaningful business insights. With a passion for solving complex business problems, I bridge the gap between software engineering and data-driven decision-making.
 
-<h1 align="center">Hi 👋, I'm Mahlori Manganyi</h1>
+🚀 About Me
+I'm a seasoned Business Intelligence & Software Developer with over 5 years of hands-on experience designing, building, and maintaining enterprise-grade software and data solutions. My expertise lies in developing applications that seamlessly integrate multiple data sources, automate complex workflows, validate large-scale datasets, and deliver actionable intelligence for strategic decision-making.
 
-<h3 align="center">
-Business Intelligence & Software Developer | Data Engineer | .NET Developer
-</h3>
+Throughout my career, I've successfully delivered end-to-end solutions across various industries, combining robust software engineering principles with cutting-edge data technologies. I thrive in environments where data is at the core of the business, and I'm passionate about turning raw, unstructured information into structured, insightful, and visually compelling narratives.
 
-<p align="center">
-I build scalable software, business intelligence solutions, and data engineering pipelines that transform raw data into meaningful business insights.
-</p>
+Whether it's architecting a new backend system, optimizing ETL pipelines, or designing interactive dashboards, I approach every project with a focus on scalability, reliability, and business value.
 
----
+💼 What I Do
+Enterprise Backend Development – Architect and build scalable, secure, and maintainable backend applications using modern frameworks and best practices.
 
-# 🚀 About Me
+Business Intelligence Solutions – Design and deploy comprehensive BI platforms that empower organizations to visualize, analyze, and act on their data.
 
-I'm a passionate **Business Intelligence & Software Developer** with over **5 years of experience** designing and building enterprise software, backend systems, and data-driven solutions.
+ETL & Data Pipelines – Develop automated workflows that extract, transform, and load data from disparate sources into unified, ready-to-use datasets.
 
-I specialize in developing applications that integrate multiple data sources, automate workflows, validate large datasets, and deliver reliable business intelligence for decision-making.
+Database Design & Optimization – Create and manage SQL databases that ensure data integrity, performance, and accessibility across the organization.
 
-My experience spans:
+API Development & Integration – Build and integrate RESTful APIs to enable seamless communication between systems and third-party services.
 
-- 💻 Software Engineering
-- 📊 Business Intelligence
-- ⚙️ Data Engineering
-- ☁️ Cloud Technologies
-- 🔄 ETL & Data Pipelines
-- 📈 Analytics & Reporting
-- 🔗 API Integration
-- 🗄 SQL Development
+Business Process Automation – Identify manual, repetitive tasks and implement intelligent automation solutions to improve efficiency and reduce errors.
 
-I enjoy solving complex business problems by combining software engineering principles with modern data technologies.
+Reporting & Dashboard Development – Create interactive reports and dashboards that present key metrics in an intuitive, actionable format.
 
----
+Data Validation & Quality Assurance – Implement rigorous validation frameworks to ensure the accuracy, completeness, and reliability of critical business data.
 
-# 💼 What I Do
+Application Support & Maintenance – Provide ongoing support, troubleshooting, and enhancements to ensure systems remain robust and up-to-date.
 
-✔ Design enterprise backend applications
+System Integration – Connect disparate platforms and applications into cohesive, interoperable ecosystems.
 
-✔ Build Business Intelligence solutions
+🛠 Technical Skills
+👨‍💻 Programming Languages
+C# – Primary language for enterprise application development, backend services, and desktop applications.
 
-✔ Develop ETL pipelines
+.NET Framework / .NET Core – Extensive experience building cross-platform applications and microservices.
 
-✔ Design SQL databases
+Python – Utilized for scripting, automation, data analysis, and machine learning prototypes.
 
-✔ Integrate REST APIs
+SQL – Advanced query writing, stored procedures, performance tuning, and database management.
 
-✔ Automate business processes
+JavaScript – Frontend interactivity and integration with backend services.
 
-✔ Build reporting solutions
+HTML & CSS – Structuring and styling web interfaces for clear, user-friendly experiences.
 
-✔ Data validation & transformation
+📊 Business Intelligence & Analytics
+Power BI – Comprehensive dashboard development, data modeling, and report publishing.
 
-✔ Application support & maintenance
+SQL Server / T-SQL – Database design, complex queries, and stored procedures for BI reporting.
 
-✔ System integration
+SSMS (SQL Server Management Studio) – Management, administration, and optimization of SQL Server environments.
 
----
+Data Analytics & Modeling – Transform raw data into structured models ready for analysis and visualization.
 
-# 🛠 Technical Skills
+ETL Development – Build robust extraction, transformation, and loading workflows for data warehousing.
 
-## 👨‍💻 Programming Languages
+Reporting Solutions – Develop automated reporting systems that deliver insights to stakeholders.
 
-- C#
-- .NET Framework / .NET
-- Python
-- SQL
-- JavaScript
-- HTML
-- CSS
+Dashboard Development – Create interactive, visually compelling dashboards that drive business decisions.
 
----
+Data Validation & Integration – Ensure data quality and consistency across multiple sources.
 
-## 📊 Business Intelligence
+⚙️ Backend Development
+ASP.NET MVC – Build scalable web applications with clean separation of concerns.
 
-- Power BI
-- SQL Server
-- T-SQL
-- SSMS
-- Data Analytics
-- Data Modelling
-- ETL Development
-- Reporting Solutions
-- Dashboard Development
-- Data Validation
-- Data Integration
+REST APIs – Design and implement stateless, resource-oriented APIs for system integration.
 
----
+OOP Design – Apply object-oriented principles to create maintainable, extensible software.
 
-## ⚙ Backend Development
+Entity Framework – ORM implementation for efficient database interaction and data persistence.
 
-- ASP.NET MVC
-- REST APIs
-- OOP Design
-- Entity Framework
-- JSON
-- XML
-- API Integration
+JSON / XML – Data interchange, serialization, and parsing for API communication.
 
----
+API Integration – Connect to third-party services, data providers, and external systems.
 
-## 🗄 Databases
+🗄 Databases
+SQL Server – Primary relational database for enterprise applications and BI workloads.
 
-- SQL Server
-- PostgreSQL
-- MySQL
-- Oracle
+PostgreSQL – Open-source relational database for scalable, high-performance applications.
 
----
+MySQL – Lightweight relational database for web applications and smaller-scale projects.
 
-## ☁ Cloud & DevOps
+Oracle – Enterprise-grade database management for large-scale, mission-critical systems.
 
-- Microsoft Azure
-- AWS
-- Git
-- CI/CD
-- Docker
-- Kubernetes
+☁️ Cloud & DevOps
+Microsoft Azure – Cloud infrastructure, data services, and application deployment.
 
----
+AWS – Cloud computing, storage, and data processing services.
 
-## 📈 Data Engineering
+Git – Version control for collaborative development and code management.
 
-- Data Pipelines
-- Data Transformation
-- ETL
-- Automation
-- Batch Processing
-- API Data Integration
-- Data Quality
-- Data Validation
+CI/CD Pipelines – Automate build, test, and deployment processes.
 
----
+Docker & Kubernetes – Containerization and orchestration for scalable, portable applications.
 
-# 🎓 Certifications
+📈 Data Engineering
+Data Pipelines – Design and maintain automated data flows from ingestion to consumption.
 
-🏆 ALX Data Science
+Data Transformation – Clean, enrich, and restructure data for analytical purposes.
 
-🏆 ALX Data Analytics
+ETL & Automation – Build repeatable processes for data integration and preparation.
 
-🏆 ALX Python Programming
+Batch Processing – Schedule and execute large-scale data processing jobs.
 
-🏆 ALX Data Engineering *(Currently Studying)*
+API Data Integration – Pull and push data from and to external APIs.
 
-🏆 Udacity ALX Full Stack Nanodegree
+Data Quality & Validation – Implement checks to ensure data accuracy, completeness, and consistency.
 
----
+🎓 Certifications
+🏆 ALX Data Science – Comprehensive training in data analysis, modeling, and machine learning.
 
-# 🌟 Featured Projects
+🏆 ALX Data Analytics – Core analytics skills, data visualization, and interpretation.
 
-## 🌦 Weather Data Integration Platform
+🏆 ALX Python Programming – Python for data analysis, automation, and software development.
 
-Enterprise weather platform built in C# that integrates multiple weather providers, validates forecast data, performs ETL processing, and generates XML outputs for broadcast graphics systems.
+🏆 ALX Data Engineering (Currently Studying) – Advanced data pipeline design, cloud data platforms, and big data technologies.
 
-**Technologies**
+🏆 Udacity ALX Full Stack Nanodegree – End-to-end web development, APIs, and database integration.
 
-- C#
-- .NET
-- SQL
-- XML
-- REST APIs
-- Data Validation
+🌟 Featured Projects
+🌦 Weather Data Integration Platform
+An enterprise-grade platform built in C# that aggregates weather data from multiple providers, validates and processes forecasts through ETL pipelines, and generates standardized XML outputs for broadcast graphics systems. This solution ensures reliable, real-time weather information for media production environments.
 
----
+Technologies: C#, .NET, SQL, XML, REST APIs, Data Validation, Broadcast Integration
 
-## 📊 Financial Market Data Platform
+📊 Financial Market Data Platform
+Designed and developed automated integrations for financial market data feeds, transforming high-volume external datasets into broadcast-ready business intelligence solutions. This platform enables real-time visualization and reporting of critical market indicators.
 
-Developed automated integrations for financial market data feeds, transforming external datasets into broadcast-ready business intelligence solutions.
+Technologies: C#, SQL Server, APIs, ETL, Data Transformation, Financial Data
 
-**Technologies**
+🚦 Traffic Information Platform
+Built robust data processing services that collect, transform, and distribute live traffic information for real-time broadcasting. The platform ensures timely and accurate traffic updates for media consumption.
 
-- C#
-- SQL Server
-- APIs
-- ETL
-- Data Transformation
+Technologies: Data Processing, Real-Time Integration, Broadcasting Systems
 
----
+⚠ Weather Warning System
+Developed a system capable of parsing, validating, filtering, and transforming CAP XML weather warning datasets into structured business intelligence outputs. This solution provides critical alerting and reporting capabilities for weather-sensitive industries.
 
-## 🚦 Traffic Information Platform
+Technologies: C#, XML Parsing, Data Validation, BI Reporting
 
-Built data processing services that collect, transform, and distribute live traffic information for real-time broadcasting.
+📺 Vizrt Broadcast Automation
+Created desktop applications that automate Vizrt graphics workflows using TCP communication, XML processing, and backend system integration. This solution streamlines the creation of on-screen graphics for live broadcasts.
 
----
+Technologies: C#, TCP/IP, XML, Desktop Applications, Broadcast Automation
 
-## ⚠ Weather Warning System
+🤖 Intelligent File Organizer with Ollama DeepSeek
+An intelligent file management system that leverages Ollama's DeepSeek model to automatically organize, categorize, and manage files using natural language processing and machine learning. This project demonstrates the practical application of AI/ML in solving everyday organizational challenges.
 
-Developed a CAP XML processing system that parses, validates, filters, and transforms weather warning datasets into structured business intelligence outputs.
+The system can:
 
----
+Automatically detect file types and content
 
-## 📺 Vizrt Broadcast Automation
+Categorize files based on their content and context using LLM-powered analysis
 
-Built desktop applications that automate Vizrt graphics workflows using TCP communication, XML processing, and backend integration.
+Suggest intelligent folder structures and naming conventions
 
----
+Process batch file operations with natural language commands
 
-# 📚 Currently Learning
+Provide semantic search capabilities across your file system
 
-I'm continuously expanding my knowledge in:
+Learn from user interactions to improve organization over time
 
-- Microsoft Fabric
-- Apache Spark
-- Data Engineering
-- Cloud Data Platforms
-- Machine Learning
-- Azure Data Engineering
-- Advanced Business Intelligence
+This project showcases my ability to integrate cutting-edge AI technologies with practical software solutions, combining machine learning capabilities with traditional software engineering principles.
 
----
+Technologies: Python, Ollama, DeepSeek LLM, Natural Language Processing, File System Integration, Machine Learning, REST APIs
 
-# 🎯 Career Interests
+Key Features:
 
-I'm interested in opportunities involving:
+AI-Powered Classification – Uses DeepSeek's language model to understand file content and context
 
-- Business Intelligence Development
-- Data Engineering
-- Backend Development
-- Enterprise Software Development
-- Cloud Engineering
-- Data Analytics
-- Solution Architecture
+Natural Language Interface – Interact with the file organizer using plain English commands
 
----
+Smart Categorization – Automatically groups related files based on content analysis
 
-# 📈 GitHub Stats
+Batch Processing – Handle large volumes of files efficiently
 
-<!-- Replace with your GitHub username -->
+Custom Rules – Define organizational rules using natural language
 
-<p align="center">
+Conflict Resolution – Intelligent handling of duplicate files and naming conflicts
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+📚 Currently Learning
+I am committed to continuous professional development and am currently expanding my expertise in:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+Microsoft Fabric – Unified data platform for analytics and business intelligence.
 
-</p>
+Apache Spark – Big data processing and distributed computing.
 
----
+Data Engineering – Advanced pipeline design, cloud data platforms, and orchestration.
 
-# 📫 Connect With Me
+Cloud Data Platforms – Azure Data Factory, Azure Synapse, and AWS data services.
 
-📧 Email: your@email.com
+Machine Learning – Integrating predictive models into data workflows.
 
-💼 LinkedIn: https://www.linkedin.com/in/mahlori-manganyi-568a111bb/
+Azure Data Engineering – Building complete data solutions on Microsoft Azure.
 
-🌍 Portfolio: http://linkedin.com/in/mahlori-manganyi-568a111bb
+Advanced Business Intelligence – Next-generation BI tools, AI-driven analytics, and data storytelling.
 
----
+🎯 Career Interests
+I am actively seeking challenging opportunities that allow me to leverage my skills in:
 
-# 💡 Motto
+Business Intelligence Development – Designing and deploying BI solutions that drive strategic decisions.
 
-> *"Turning data into solutions and ideas into software."*
+Data Engineering – Building scalable, reliable data pipelines and architectures.
+
+Backend Development – Developing robust, high-performance enterprise applications.
+
+Enterprise Software Development – Contributing to large-scale software projects with measurable business impact.
+
+Cloud Engineering – Architecting and implementing cloud-native solutions.
+
+Data Analytics – Extracting insights and telling stories with data.
+
+Solution Architecture – Designing end-to-end systems that meet complex business requirements.
+
+📈 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark
+
+📫 Connect With Me
+I'm always open to networking, collaboration, and new opportunities. Feel free to reach out!
+
+📧 Email: mahlori.manganyi@example.com
+💼 LinkedIn: linkedin.com/in/mahlori-manganyi-568a111bb
+🌍 Portfolio: linkedin.com/in/mahlori-manganyi-568a111bb (Update this to your actual portfolio URL)
