@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahlori Manganyi
 
-### **AOftware Engineer | Data Engineer | Business Intelligence Developer  (.NET/C#)**
+### **Software Engineer | Data Engineer | Business Intelligence Developer  (.NET/C#)**
 
 I build enterprise software, business intelligence solutions, and scalable data engineering pipelines that transform raw data into meaningful business insights. My passion lies in solving complex business problems through software development, automation, analytics, and modern cloud technologies.
 
@@ -219,17 +219,6 @@ I'm passionate about opportunities involving:
 
 ---
 
-# 📈 GitHub Stats
-
-> Replace **https://github.com/Mahlori412** with your actual GitHub username.
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mahlori412&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mahlori412&layout=compact&theme=tokyonight)
-```
-
----
 
 # 🤝 Let's Connect
 
