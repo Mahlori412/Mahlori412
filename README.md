@@ -224,7 +224,6 @@ I'm passionate about opportunities involving:
 
 I'm always open to collaborating on interesting projects, discussing software engineering, data engineering, business intelligence, or exploring exciting career opportunities.
 
-* 📧 **Email:** *manganyimahlori6@gmail.com*
 * 💼 **LinkedIn:** https://linkedin.com/in/mahlori-manganyi-568a111bb
 
 ---
